@@ -14,8 +14,8 @@
 
 I am a passionate Front-End Developer with practical experience! I have been learning web development technologies for the past 3 years through various team and solo projects. I am always eager to learn and improve my skills.
 
-- 🔭 I’m currently working on finishing my studies
-- 🌱 I’m currently learning [Zustand](https://github.com/pmndrs/zustand)
+- 🔭 I’m currently working on cloning Spotify
+- 🌱 I’m currently learning React 18 and [react-testing-library](https://github.com/testing-library/react-testing-library)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fabien-lallemand-b6860017a) or email (fabien-luc.lallemand@epitech.eu)
 
 ### 🛠️ Languages and Tools
