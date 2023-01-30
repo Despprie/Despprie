@@ -12,7 +12,7 @@
 
 ### 🤓 About me
 
-I am a passionate Front-End Developer with practical experience! I have been learning web development technologies for the past 3 years through various team and solo projects. I am always eager to learn and improve my skills.
+I am a driven front-end developer dedicated to creating appealing and intuitive user experiences. With a strong understanding of front-end technologies, I am able to design and implement interactive websites. Clean code is important to me, ensuring easy maintenance and project evolution. I am always seeking new challenges to improve my skills and deliver high-quality creative solutions
 
 - 🔭 I’m currently working on a Spotify clone
 - 🌱 I’m currently learning NextJS v13
