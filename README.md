@@ -14,8 +14,6 @@
 
 I am a driven front-end developer dedicated to creating appealing and intuitive user experiences. With a strong understanding of front-end technologies, I am able to design and implement interactive websites. Clean code is important to me, ensuring easy maintenance and project evolution. I am always seeking new challenges to improve my skills and deliver high-quality creative solutions.
 
-- 🔭 I’m currently working on a Spotify clone
-- 🌱 I’m currently learning NextJS v13
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fabien-lallemand-b6860017a) or email (fabien-luc.lallemand@epitech.eu)
 
 ### 🛠️ Languages and Tools
