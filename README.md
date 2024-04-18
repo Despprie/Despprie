@@ -26,5 +26,5 @@ I am a driven front-end developer dedicated to creating appealing and intuitive 
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Next" alt="Next" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwincss" alt="Tailwincss" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwincss" alt="Tailwincss" width="40" height="40"/>
 </div>
